@@ -80,9 +80,9 @@ class VivianYin:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yinyueyuan&theme=tokyonight&no-frame=true&column=8&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yinyueyuan&theme=meta-light&no-frame=true&column=8&margin-w=15&margin-h=15" alt="trophies" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yinyueyuan&theme=tokyonight" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yinyueyuan&theme=meta-light" alt="GitHub Streak Stats">
 </div>
 
 ## 🏆 Achievements & Certifications
