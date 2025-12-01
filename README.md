@@ -137,13 +137,9 @@ graph LR
 ## 🌐 Connect With Me
 
 <div align="center">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-yinyueyuan-181717?style=flat-square&logo=github)](https://github.com/yinyueyuan)
-  [![Email](https://img.shields.io/badge/Email-yinyueyuan999@gmail.com-red?style=flat-square&logo=gmail)](mailto:yinyueyuan999@gmail.com)
-
-  ---
-
   <i>💬 "Transforming data into actionable insights, one algorithm at a time."</i>
+
+  <br/>
 
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
   <!-- "margin-right: 0px" -->
