@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yinyueyuan)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yueyuan-yin)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yinyueyuan999@gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/yinyueyuan?style=for-the-badge&logo=github)](https://github.com/yinyueyuan) <img src="https://komarev.com/ghpvc/?username=yinyueyuan&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </div>
